@@ -7,8 +7,22 @@
     color: black;
 }
 .storyPic{
-    width: 1.5em;
-    height: 1.5em;
-    position: relative;
-    border-radius: 2px !important;
+    width: 56px; 
+    height: 56px; 
+    position: relative; 
+    border-width: 2px !important;
+}
+.AccPic{
+    width: 42px; 
+    height:42px; 
+    position: relative; 
+    margin-right:8px ;
+    border-width: 2px !important;
+}
+.hello{
+    padding-left: 2rem;
+    padding-right: 0.7rem;
+    padding-top: 0.7rem;
+    padding-bottom: 0.8rem;
+
 }
